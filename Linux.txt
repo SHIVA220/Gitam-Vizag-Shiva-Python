@@ -1,0 +1,30 @@
+Linux commonds:
+-----------------------
+1) present working directory ------ pwd (present working directory)
+2) list of files and forlders----- ls (list)
+3) clear the working page------- clear
+4) change the directory------- cd {cd desktop/}
+5) Creat a folder ----- mkdir pythonprogramming 
+6) cd python programming {change the path}
+7) creat a file under the pythonProgramming
+	1. touch--- creat a file 
+	2. nano---- modify the file {Ctr+x for exit y/n}
+	3. gedit
+	4. cat --- read the file data
+	5. echo---- used to write the data to the file {echo '....'> ...txt}
+8) touch data.txt
+9) git version ----- for showing the version of Git in local computer 
+10) LS -A ------- showing hidden files and forlders in the folders
+11) Config the Git
+	. git config user.name 'your name'
+	. git config user.email 'Email'
+12) for showing the user name---- git config user.name
+13) going to the user area ----- git init
+14) change the user name---- git config user.name '....'
+15) Set email ID as user name ----- (git config.email '......')
+16) for showing the status of a file ----- git status 
+17) for helping commonds----- git remote help
+18) git remote add gitam-vizag-python  URL 
+19) git remote ad Gitam-vizag-shiva-python   https://github.com/SHIVA220/Gitam-Vizag-Shiva-Python
+20) git remote show--- showing the fitch and push of the data between server and client.
+21) 
